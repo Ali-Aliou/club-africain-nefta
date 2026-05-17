@@ -129,8 +129,8 @@ body::after {
   background: radial-gradient(circle, rgba(255,255,255,0.08) 0%, transparent 40%);
   animation: stadiumLights 6s linear infinite;
   pointer-events: none;
-}
 
+}
 @keyframes stadiumLights {
   0% { transform: rotate(0deg); }
   100% { transform: rotate(360deg); }
