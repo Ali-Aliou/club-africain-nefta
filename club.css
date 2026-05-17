@@ -89,10 +89,3 @@ img:hover, video:hover {
   border: 2px solid #b30000;
   border-radius: 10px;
 }
-
-footer {
-  text-align: center;
-  padding: 15px;
-  color: #b30000;
-  background: #f5f5f5;
-}
