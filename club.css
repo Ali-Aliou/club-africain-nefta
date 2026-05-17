@@ -1,0 +1,26 @@
+body {
+    background: linear-gradient(rgb(235, 125, 125),rgb(239, 229, 229),rgb(235, 125, 125));
+  }
+table{
+    width: 600px;
+    background-color: rgb(191, 191, 240);
+
+  border-style: dashed;
+  border-color: yellow;
+
+}
+th{
+  background-color: aqua;
+}
+#td1{
+  background-color: rgb(169, 54, 110);
+}
+#td2{
+  background-color: yellowgreen;
+}
+#td3{
+  background-color: rgb(234, 98, 7);
+}
+#td4{
+  background-color: blueviolet;
+}
